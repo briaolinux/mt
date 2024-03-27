@@ -1,0 +1,28 @@
+body {
+	font-family: ubuntu;
+	font-size: 18px;
+	background: #222;
+	color: #999;
+	margin: 120px;
+}
+.logo {
+	margin: 12px;
+}
+nav {
+	text-align: right;
+	margin: 30px;
+	padding: 20px;
+	font-size: 14px;
+	position: relative;
+}
+.content {
+	font-size: 12px;
+	margin: 46px;
+}
+
+footer {
+	text-align: center;
+	font-size: 11px;
+	margin: 130px;
+	font-family: ubuntu light;
+}
